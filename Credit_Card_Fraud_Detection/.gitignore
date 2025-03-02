@@ -1,0 +1,15 @@
+# Ignore raw and processed data
+data/raw/
+data/processed/
+
+# Ignore model files
+models/*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
