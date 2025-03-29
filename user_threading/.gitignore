@@ -1,0 +1,18 @@
+# Object files
+*.o
+
+# Compiled binary
+main
+
+# Backup files
+*~
+
+# Editor settings
+.vscode/
+*.swp
+
+# MacOS metadata
+.DS_Store
+
+# Logs
+*.log
